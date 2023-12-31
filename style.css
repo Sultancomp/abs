@@ -1,0 +1,94 @@
+* {
+  text-decoration: none;
+  margin: 0;
+  padding: 0;
+  color: none;
+}
+
+body {
+  margin: auto;
+  padding: auto;
+  font-family: sans-serif;
+  font-weight: bold;
+  text-align: justify;
+  background-color: #f1f1f1, black auto;
+}
+
+.navbar .container-fluid {
+  top: 1px;
+  z-index: 1;
+  position: fixed;
+}
+
+.navbar-nav li:hover {
+  background-color: blue;
+  color: bisque;
+  border-radius: 10px;
+}
+
+.ul .li .a:hover {
+  background-color: yellow;
+}
+
+span {
+  background-image: radial-gradient(blue, black);
+  color: white;
+  border: 5px greenyellow solid;
+  border-radius: 20px;
+  padding: 10px;
+}
+span:hover {
+  color: yellow;
+}
+.hero {
+  background-image: url("img/Daaruts\ Tsaqofah.jpg");
+  background-size: cover;
+  background-position: center;
+  background-repeat: repeat;
+  background-position-y: auto;
+  background-position-x: auto;
+  width: 100%;
+  height: 60vh;
+}
+
+img {
+  border: 3px black solid;
+  width: 100% auto;
+  height: 350px auto;
+  margin-top: 1px auto;
+}
+
+.profil {
+  background-color: black;
+}
+
+#IT:hover {
+  background-color: black;
+  color: white;
+}
+
+#smart:hover {
+  background-color: black;
+  color: white;
+}
+
+h5 {
+  color: darkblue;
+  font-weight: small;
+  text-align: center;
+  justify-content: center;
+}
+
+h6 {
+  font-weight: 400;
+  text-align: center;
+  justify-content: center;
+  margin: 15px;
+}
+
+section {
+  display: block;
+  margin: 2px auto;
+}
+
+/*produk digital*/
