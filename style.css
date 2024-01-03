@@ -48,8 +48,8 @@ span:hover {
   background-repeat: repeat;
   background-position-y: auto;
   background-position-x: auto;
-  width: 125%;
-  height: 55vh;
+  width: 100%;
+  height: 65vh;
   margin-top: 3px;
 }
 
@@ -91,7 +91,7 @@ h6 {
 
 section {
   display: block;
-  margin: 2px;
+  margin: 2px auto;
 }
 
 /*sosmed*/
@@ -100,8 +100,9 @@ section {
   font-size: 30px;
   width: 50px;
   text-align: center;
+  justify-content: center;
   text-decoration: none;
-  margin: 5px 2px;
+  margin: 5px 5px;
 }
 
 .fa:hover {
@@ -123,6 +124,6 @@ section {
 }
 
 .fa-instagram {
-  background: yellowgreen;
-  color: white;
+  background: yellow;
+  color: black;
 }
