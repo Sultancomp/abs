@@ -15,7 +15,6 @@ body {
 }
 
 .navbar .container-fluid {
-  top: 1px;
   z-index: 1;
   position: fixed;
 }
@@ -42,7 +41,7 @@ span:hover {
   color: yellow;
 }
 .hero {
-  background-image: url("img/Daaruts\ Tsaqofah.jpg");
+  background-image: url("img/abs.jpg");
   background-size: cover;
   background-position: center;
   background-repeat: repeat;
@@ -96,9 +95,9 @@ section {
 
 /*sosmed*/
 .fa {
-  padding: 20px;
+  padding: 10px;
   font-size: 30px;
-  width: 50px;
+  width: 40px;
   text-align: center;
   justify-content: center;
   text-decoration: none;
